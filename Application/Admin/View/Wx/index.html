@@ -1,0 +1,52 @@
+<extend name="Public/base"/>
+
+<block name="body">
+	<div class="page-head">
+		<h2>系统信息</h2>
+	</div>
+	<div class="cl-mcont">
+		<div class="row">
+			<div class="col-sm-4 col-md-4 col-lg-6">
+				<div class="block-flat">
+					<div class="overflow-hidden"> <i class="fa fa-file-text fa-4x pull-left color-primary"></i>
+						<h3 class="no-margin">订单</h3>
+						<p class="color-primary">Order</p>
+					</div>
+					<div class="row">
+						<div class="col-sm-4 col-md-4 col-lg-6">
+							<div class="content">
+								<h2 class="no-margin">共计 {$count['order']} 笔</h2>
+							</div>
+						</div>
+						<div class="col-sm-4 col-md-4 col-lg-6">
+							<div class="content">
+								<h2 class="no-margin">今日订单 {$count['today_order']} 笔</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-6">
+				<div class="block-flat">
+					<div class="overflow-hidden"> <i class="fa fa-user fa-4x pull-left color-danger"></i>
+						<h3 class="no-margin">资金</h3>
+						<p class="color-danger">Price</p>
+					</div>
+					<div class="row">
+						<div class="col-sm-4 col-md-4 col-lg-6">
+							<div class="content">
+								<h2 class="no-margin">共计 {$count['pricetotal']} 元</h2>
+							</div>
+						</div>
+						<div class="col-sm-4 col-md-4 col-lg-6">
+							<div class="content">
+								<h2 class="no-margin">今日收入 {$count['today_price_total']} 元</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</block>
+

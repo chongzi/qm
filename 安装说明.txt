@@ -1,0 +1,18 @@
+2020年5月最新独家修复版起名网站源码宝宝起名源码易起八字起名网
+完善了所有姓氏，新增了大量的姓名，修复了姓名详情不显示和乱码的问题
+支持微信和支付宝付款方式
+修复了部分位置错位，部分细节问题的优化。
+
+安装环境php5.6 mysql 5.6  apache/nginx均可安装
+
+1. 上传源码到空间  导入数据库文件yiqiqiming.sql.gz 该文件是压缩文件，如果不支持，解压再上传即可
+
+2. 修改数据库配置文件 Application\Common\Conf\config.php
+
+3. 设置伪静态（apache环境不用管，已配置好。nginx环境需要手动配置，规则在根目录nginx.txt）
+
+4. 进入后台 域名/admin.php 帐号admin 密码 admin123
+
+5. 安装完成了
+
+修改模板文件在 /Application/Home/View

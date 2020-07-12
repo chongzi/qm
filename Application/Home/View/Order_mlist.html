@@ -1,0 +1,314 @@
+﻿<extend name="Public/base-1"/>
+<block name="main">
+<link rel="stylesheet" type="text/css" href="__HOMESTYLE__/css/style.css"/>
+<style>
+    .sm_form li{ overflow:none; border-bottom: 1px solid #f3e6d3; height:auto; line-height: inherit }
+    .imgs{width:100%}
+    .form_t{display:block !important;background:none !important;border-bottom:1px solid #efefef;}
+    .names{display:inline-block;padding:0.3rem 0.75rem;background:#F5E2C3;margin:0.2rem 0.3rem;}
+    .gb11-1{    height: 12px;    width: 90%;    border: 1px solid #b7870b;    margin: 5px;}
+    .gb12-1{height: 100%;    background: #b7870b;}
+    .gb11-2 {    height: 12px;    width: 90%;    border: 1px solid #017f01;    margin: 5px;}
+    .gb12-2 {    height: 100%;    background: #017f01;}
+    .gb11-3 {    height: 12px;    width: 90%;    border: 1px solid #0073ce;    margin: 5px;}
+    .gb12-3 {    height: 100%;    background: #0073ce;}
+    .gb11-4 {    height: 12px;    width: 90%;    border: 1px solid #e35722;    margin: 5px;}
+    .gb12-4 {    height: 100%;    background: #e35722;}
+    .gb11-5 {    height: 12px;    width: 90%;    border: 1px solid #a77c5c;    margin: 5px;}
+    .gb12-5 {    height: 100%;    background: #a77c5c;}
+    .co1{color:#f00;}
+    .co2{color:#976A3C;}
+    .co3{color:#1c9916;}
+    .bd {    font-weight: bold;}
+	.gbtb td{border:none;padding:3px;width:87%}
+    .pa_le20{background:#986A3A;color:#fff;}
+    .table1{margin:0 auto;width:998px;font-weight:normal;}
+    .table1 td{padding:0 15px;font-size:15px;height:45px !important}
+    .td3 {text-align:center !important;}
+
+#all {
+  text-align: center;
+ height: 30px;
+ width: 310px;
+ margin-top: 0px;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-left: auto;
+}
+   
+.STYLE1 {font-weight: bold}
+</style>
+<div class="main">
+  <div class="container"> <br/>
+  
+  <div class="index-section basic-info case-wrap index-section1" style="padding:0;">
+    <div class="sj_margin"></div>
+    <div class="min-width" style="padding:0">
+      <div class="top tp">
+        <div class="top-title" style="background-color:none;"> <img src="__HOMESTYLE__/picture/index_30.png" /> </div>
+      </div>
+      <div class="section section" style="">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="width:25%;"><label><strong>起名姓氏</strong></label></td>
+            <td colspan="2"><span>{$info['name']}</span></td>
+            <td><label>性别</label></td>
+            <td><span>{$info['gender']}</span></td>
+          </tr>
+          <tr>
+            <td><label><strong>出生日期</strong></label></td>
+            <td colspan="4"><span>{$info['birthday2'][0]}年{$info['birthday2'][1]}月{$info['birthday2'][2]}日  {$info['birthtime']}时{$info['birthmin']}分</span></td>
+          </tr>
+          <tr>
+            <td><label><strong>出生公历</strong></label></td>
+            <td><span>{$info['birthday2'][0]}年</span></td>
+            <td><span>{$info['birthday2'][1]}月</span></td>
+            <td><span>{$info['birthday2'][2]}日</span></td>
+            <td><span>{$info['birthtime']}点</span></td>
+          </tr>
+          <tr>
+            <td><label><strong>出生农历</strong></label></td>
+            <td><span>{$nongli[3]}年</span></td>
+            <td><span>{$nongli[1]}</span></td>
+            <td><span>{$nongli[2]}</span></td>
+            <td><span class="l4"></span></td>
+          </tr>
+          <tr>
+            <td><label><strong>生辰八字</strong></label></td>
+            <td><span>{$bazi[0]}</span></td>
+            <td><span>{$bazi[1]}</span></td>
+            <td><span>{$bazi[2]}</span></td>
+            <td><span>{$bazi[3]}</span></td>
+          </tr>
+          <tr>
+            <td><label><strong>纳音五行</strong></label></td>
+            <td><span>{$nayin[0]}</span></td>
+            <td><span>{$nayin[1]}</span></td>
+            <td><span>{$nayin[2]}</span></td>
+            <td><span>{$nayin[3]}</span></td>
+          </tr>
+          <tr>
+            <td><label><strong>八字五行个数</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$bzwxgs}</td>
+          </tr>
+          <tr>
+            <td><label><strong>五气成分指数</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;"><span>{$wqcfzs}</span></td>
+          </tr>
+		  <volist name="qr" id="q">
+          <tr>
+            <td><span class="STYLE1">
+              <label>{$q[0]}</label>
+            </span></td>
+            <td><span>{$q[1]} %</span></td>
+            <td colspan="3" align="left" style="text-align:left;padding-left:5px;"><span>{$q[2]}</span></td>
+          </tr>
+		  </volist>
+
+          <tr>
+            <td><label><strong>强弱总比值</strong></label></td>
+            <td><span><php>echo round($zh,2)</php> %</span></td>
+            <td colspan="3" style="text-align:left;padding-left:5px;"><span>{$qrzh}</span></td>
+          </tr>
+		  </table>
+      </div>
+	  <div class="bottom"></div>
+    </div>
+  </div>
+
+  <div class="index-section basic-info case-wrap index-section1" style="padding:0;">
+    <div class="sj_margin"></div>
+    <div class="min-width" style="padding:0">
+      <div class="top" style="text-align:center;height:100px;background-color:none">
+        <div style="text-align:center;height:100px;color:#FE7800;font-size:22px;padding-top:5px;">精准命理调整补救指导<br><img src="__HOMESTYLE__/images/dd_h4.png" style="margin-top:5px;"/> </div>
+      </div>
+      <div class="section section">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="width:25%;"><label><strong>命局分析</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;width:80%;">{$ygod}</td>
+          </tr>
+          <tr>
+            <td><label><strong>功名富贵</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$gmfg}</td>
+          </tr>
+          <tr>
+            <td><label><strong>适合事业</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$hy}</td>
+          </tr>
+          <tr>
+            <td><label><strong>人生贵人</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$rsgr}</td>
+          </tr>
+          <tr>
+            <td><label><strong>文昌位</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$wcw}</td>
+          </tr>
+          <tr>
+            <td><label><strong>幸运色彩</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$jxs}</td>
+          </tr>
+          <tr>
+            <td><label><strong>幸运数字</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$lucknum}</td>
+          </tr>
+          <tr>
+            <td><label><strong>吉祥方位</strong></label></td>
+            <td colspan="4" style="text-align:left;padding-left:5px;">{$location}</td>
+          </tr>
+        </table>
+      </div>
+	  <div class="bottom" style="background-color:none"></div>
+    </div>
+  </div>
+  <!-- 基本信息结束 --> 
+  
+  
+    <div class="qmSect qmOntent m_b_20" id='box1' style='margin:0 auto;background:#fff;'>
+      <table class='table1'>
+      </table>
+    </div>
+  </div>
+  <div class="qim"></div>
+  <div class="table1" id="xmlist"> 
+    <foreach name="fullname" item="v">
+    <a target="_blank" class="xm1" href="{:U('order/minfo', array('xing'=>$name, 'ming'=>$v['ming'], 'score'=>$v['score']))}"> 
+        <span class="xing">{$name}</span> <span class="ming">{$v.ming}</span> <span class="details">查看详情</span> 
+    </a>  
+   </foreach>
+    <div class="clear"></div>
+  </div>
+<br>
+  <br>
+<!--  <div style="display: inline-block; width: 200px;height: 100px;text-align: center;background: red;">
+ <div class="huany " style=''  onclick='getmlist(1)'> 上一页 </div>
+ <div class="huany huany1" style=''  onclick='getmlist(2)'> 下一页 </div>
+ </div> -->
+ <div id="all">
+  <div id="left" onclick='getmlist(1)' class="huany">上一页 </div>
+  
+  <div id="right" onclick='getmlist(2)' class="huany">下一页</div>
+</div>
+  <br>
+  <br>
+  <br>
+</div>
+<div class="clear"></div>
+<script>
+  var page = 1;
+  function getmlist(Paging){
+    var orderno = "{$orderno}";  
+    var content = '';
+    if(Paging==1){
+      if(page>1){
+        page = page-1;
+      }else{
+         alert('没有上一页了');
+         return;
+      
+      }
+    }else{
+      page = page+1;   
+    }
+   
+    $.ajax({ 
+      url: "{:U('order/getmlist')}", 
+      data: "orderno={$orderno}&page="+page,
+      dataType: "json", 
+      success: function(msg){
+         console.log(page);
+          len = msg.length; 
+          for(i=0; i<len; i++){
+              content += '<a target="_blank" class="xm1" href="/order/minfo/xing/'+msg[0]['xing']+'/ming/'+msg[i]['ming']+'/score/'+msg[i]['score']+'.html"> ';
+              content +='        <span class="xing">'+msg[0]['xing']+'</span> ';
+              content +='        <span class="ming">'+msg[i]['ming']+'</span> ';
+              content +='        <span class="details">查看详情</span> ';
+              content +='</a> ';
+          }
+         
+          if(len < 100){
+              page = page-1; 
+             $("#right").html("没有了哦！");
+              /*$("#right").removeAttr("onclick");*/
+             
+              return;
+          }else{
+            $("#right").html("下一页");
+          }
+          content += '<div class="clear"></div>';
+          $("#xmlist").html(content);
+
+      }
+    });
+
+  }
+
+    var id=1;
+    var all=0;
+
+    function g(step){
+        $("#nexts").show();
+        id=id+step;
+        if(id>1){$("#backs").show();}else{$("#backs").hide();}
+        if(id==0){id=1;return;}
+        if(id==all){
+            id=all-1;
+            $("#nexts").hide();
+            return;}
+        
+        $(".box").hide();
+        $('#box'+id).show();
+    }
+	
+	function setLtime(){
+		var _s = calendar.solar2lunar({$info['birthday2'][0]},{$info['birthday2'][1]},{$info['birthday2'][2]});
+		$('.l1').html(_s.gzYear+'年');
+		$('.l2').html(_s.IMonthCn);
+		$('.l3').html(_s.IDayCn);
+		$('.l4').html(Hcovert("{$info['birthtime']}"));
+	}
+	
+    $(function(){
+		setLtime();
+         $("#backs").click(function(){  g(-1) })
+         $("#nexts").click(function(){  g(1) })
+    })
+   $("img").error(function(){
+        $(this).hide();
+   });
+   setTimeout(function(){$('body').css('background','')},1000);
+
+   $('#box1 tr td:eq(0),#box1 tr:eq(0) td:eq(1)').attr('nowrap','nowrap');
+
+   $('.name').click(function(){
+
+   })
+
+   $('.names').click(function(){
+       var t=$(this).text();
+      //window.open('/qiming/get_detail_a/get_info?xing='+t.substr(0,1)+'&ming='+t.substr(1));return;
+      window.open('{:U("order/minfo")}?xing='+t.substr(0,1)+'&ming='+t.substr(1));
+      return;
+     
+    });
+   
+    $('.table1 tr:gt(8) td').css('textAlign','left');
+</script>
+<script>
+(function(){
+  var c=document.createElement('script');
+  c.src='//kefu.cckefu.com/vclient/?webid=129247';
+  var s=document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(c,s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?7c54c92373bf075ce01c8e7dfa9f2380";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</block>

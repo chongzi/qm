@@ -1,0 +1,10 @@
+[ 2020-06-24T18:03:29+08:00 ] 124.70.79.250 /admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2020-06-24T18:03:29+08:00 ] 124.70.79.250 /admin.php/public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+

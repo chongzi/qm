@@ -1,0 +1,55 @@
+[ 2020-06-18T13:03:33+08:00 ] 36.5.95.19 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2020-06-18T13:03:33+08:00 ] 36.5.95.19 /admin.php/public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2020-06-18T13:03:34+08:00 ] 36.5.95.19 /admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2020-06-18T13:03:43+08:00 ] 36.5.95.19 /admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2020-06-18T13:03:57+08:00 ] 36.5.95.19 /admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2020-06-18T13:04:07+08:00 ] 36.5.95.19 /admin.php/Public/verify.html?0.6609390954063619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2020-06-18T13:04:09+08:00 ] 36.5.95.19 /admin.php/Public/verify.html?0.3308607353941506
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2020-06-18T13:04:15+08:00 ] 36.5.95.19 /admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2020-06-18T13:04:16+08:00 ] 36.5.95.19 /admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2020-06-18T13:04:18+08:00 ] 36.5.95.19 /admin.php/Wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2020-06-18T13:04:19+08:00 ] 36.5.95.19 /admin.php/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+

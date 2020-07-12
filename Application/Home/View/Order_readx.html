@@ -1,0 +1,95 @@
+<extend name="Public/base"/>
+<block name="main">
+    <link rel="stylesheet" type="text/css" href="__HOMESTYLE__/css/style.css?ver=2"/>
+  
+  
+
+<div class="main">
+<div class="container">
+  <div class="table_bg"  >
+    <div class="table_xx" style='height: 400px;'>
+      <div class="title"> 温馨提醒</div>
+      
+      <div style='padding:50px;text-align:left;width:300px;margin:0 auto'>   
+    
+      
+          <div class="item">
+            <label>姓氏：</label>
+            <span>{$info['name']}</span>
+          </div><br>
+          <div class="item">
+            <label>订单号：</label>
+            <span>{$info['order_no']}</span>
+          </div><br>
+          <div class="item">
+            <label>状态：</label>
+            <span class="unpaid">{$info['statestr']}</span>
+          </div>
+        
+      
+      </div>
+      <div  id='showdetail' style='cursor:pointer;text-align:center; padding:10px 20px;border-radius:5px;width:250px;margin:0 auto;background:#CB0000;color:#fff;font-size:18px'>返回</div>
+
+    </div>
+    <img src="__HOMESTYLE__/images/left.jpg" class="left"/>
+    <img src="__HOMESTYLE__/images/right.jpg" class="right"/>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>  
+
+
+
+
+
+
+
+
+<script>
+
+// var url="{:U('order/add')}?name={$info['name']}&gender={$info['gender']}&birthday={$info['birthday']}&birthtime={$info['birthtime']}&birthmin={$info['birthmin']}&xing={$info['xing']}&phone={$info['phone']}&ver={$info['ver']}";
+var url="{:U('order/mlist')}?orderno={$info['order_no']}";
+$('#showdetail').click(function(){
+location.href=url;
+})
+<?php 
+if ($info['state']==1) {
+echo "$('#showdetail').click();";
+}
+ ?>
+function respCheckOrder(){
+  $.ajax({
+    url: '/order/orderstate/orderno/{$info['order_no']}',
+    type: 'GET',
+    dataType: 'JSON',
+    data: {param1: 'value1'},
+    success:function(resp){
+      if (resp.code==1) {
+        $('#showdetail').click();
+      }else{
+        setTimeout(function(){
+          respCheckOrder();
+        }, 2000);
+      }
+    }
+  })
+}
+setTimeout(function(){
+  respCheckOrder();
+}, 200);
+
+// setTimeout(function(){location.reload();}, 3000);
+</script>
+
+</block>
+
+
+
+ 

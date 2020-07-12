@@ -1,0 +1,344 @@
+[ 2020-06-29T00:44:26+08:00 ] 111.7.100.24 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2020-06-29T00:44:41+08:00 ] 111.7.100.27 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000300s ]
+
+[ 2020-06-29T00:50:03+08:00 ] 110.80.135.11 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2020-06-29T03:33:36+08:00 ] 203.208.60.68 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+ERR: 无法加载控制器:Robots.txt
+NOTIC: [2] include(): Filename cannot be empty /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Filename cannot be empty /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/www/server/php/56/lib/php') /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2020-06-29T14:42:06+08:00 ] 220.181.108.84 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2020-06-29T16:33:40+08:00 ] 203.208.60.86 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载控制器:Robots.txt
+NOTIC: [2] include(): Filename cannot be empty /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Filename cannot be empty /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '' for inclusion (include_path='.:/www/server/php/56/lib/php') /www/wwwroot/ys.58yangs.com/ThinkPHP/Library/Think/Think.class.php 第 314 行.
+
+[ 2020-06-29T20:34:54+08:00 ] 111.7.100.17 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2020-06-29T20:35:08+08:00 ] 111.7.100.16 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2020-06-29T20:35:13+08:00 ] 111.7.100.17 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2020-06-29T20:35:30+08:00 ] 111.7.100.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2020-06-29T20:35:32+08:00 ] 36.99.136.130 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2020-06-29T20:35:33+08:00 ] 111.7.100.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2020-06-29T20:35:46+08:00 ] 111.7.100.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2020-06-29T20:35:46+08:00 ] 36.99.136.130 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2020-06-29T20:35:50+08:00 ] 111.7.100.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2020-06-29T20:35:51+08:00 ] 111.7.100.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2020-06-29T20:35:51+08:00 ] 36.99.136.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2020-06-29T20:35:55+08:00 ] 111.7.100.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+

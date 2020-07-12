@@ -1,0 +1,1526 @@
+[ 2020-06-17T00:40:22+08:00 ] 121.201.1.251 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2020-06-17T03:00:50+08:00 ] 36.99.136.142 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2020-06-17T03:00:53+08:00 ] 36.99.136.138 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2020-06-17T03:00:56+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012306s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2020-06-17T03:00:57+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2020-06-17T03:00:57+08:00 ] 111.7.100.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012529s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2020-06-17T03:00:57+08:00 ] 111.7.100.24 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2020-06-17T03:00:57+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2020-06-17T03:00:57+08:00 ] 111.7.100.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2020-06-17T03:00:58+08:00 ] 111.7.100.24 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2020-06-17T03:00:59+08:00 ] 111.7.100.27 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2020-06-17T03:01:02+08:00 ] 111.7.100.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2020-06-17T03:01:02+08:00 ] 111.7.100.21 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2020-06-17T03:01:02+08:00 ] 111.7.100.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2020-06-17T03:01:04+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2020-06-17T07:42:03+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2020-06-17T07:42:03+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.27 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.21 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.24 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2020-06-17T07:42:05+08:00 ] 111.7.100.21 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2020-06-17T07:42:10+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2020-06-17T07:42:10+08:00 ] 111.7.100.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2020-06-17T07:42:10+08:00 ] 111.7.100.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2020-06-17T07:42:13+08:00 ] 111.7.100.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012830s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2020-06-17T08:18:20+08:00 ] 101.91.60.11 /?from=groupmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2020-06-17T13:02:17+08:00 ] 101.226.225.85 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2020-06-17T13:02:20+08:00 ] 114.97.242.121 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2020-06-17T13:02:25+08:00 ] 49.92.188.113 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701439355327&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0006s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701439355327' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `order` (`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`zibei`,`mobile`,`email`,`oldprice`,`createtime`,`datatype`) VALUES ('CS159237014549818','汪','1','2020-6-17','1','2','15923701439355327','','0','3.9','','','','99.9','1592370145','0') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2020-06-17T13:02:27+08:00 ] 49.92.188.113 /pay/alipay/orderno/CS159237014549818.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`oldprice` FROM `order` WHERE ( order_no = 'CS159237014549818' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2020-06-17T13:02:29+08:00 ] 49.92.188.113 /pay/alipay/orderno/CS159237014549818.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`oldprice` FROM `order` WHERE ( order_no = 'CS159237014549818' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2020-06-17T13:02:30+08:00 ] 49.92.188.113 /pay/alipay/orderno/CS159237014549818.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`oldprice` FROM `order` WHERE ( order_no = 'CS159237014549818' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2020-06-17T13:02:31+08:00 ] 114.97.242.121 /order/add.html?cszt=1&name=%E5%91%A8&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E5%91%A8&phone=15923701500634935&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0006s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701500634935' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `order` (`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`zibei`,`mobile`,`email`,`oldprice`,`createtime`,`datatype`) VALUES ('CS159237015141733','周','1','2020-6-17','1','2','15923701500634935','','0','3.9','','','','99.9','1592370151','0') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2020-06-17T13:02:33+08:00 ] 114.97.242.121 /pay/wei?code=001ZnXJ20raB2H1Qp2I20ar0K20ZnXJy&state=CS159237015141733
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`oldprice` FROM `order` WHERE ( order_no = 'CS159237015141733' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2020-06-17T13:02:34+08:00 ] 49.92.188.113 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2020-06-17T13:02:40+08:00 ] 49.92.188.113 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701587346040&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0006s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701587346040' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `order` (`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`zibei`,`mobile`,`email`,`oldprice`,`createtime`,`datatype`) VALUES ('CS159237016096053','汪','1','2020-6-17','1','2','15923701587346040','','0','3.9','','','','99.9','1592370160','0') [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2020-06-17T13:02:42+08:00 ] 49.92.188.113 /pay/wei?code=071yT5uR1nlFp51IJKsR1B45uR1yT5ut&state=CS159237016096053
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`order_no`,`name`,`gender`,`birthday`,`birthtime`,`birthmin`,`phone`,`ver`,`state`,`price`,`oldprice` FROM `order` WHERE ( order_no = 'CS159237016096053' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2020-06-17T13:14:10+08:00 ] 61.151.207.205 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701439355327&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0007s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701439355327' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2020-06-17T13:14:12+08:00 ] 101.89.239.120 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2020-06-17T13:14:15+08:00 ] 101.91.60.108 /order/add.html?cszt=1&name=%E5%91%A8&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E5%91%A8&phone=15923701500634935&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0007s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701500634935' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2020-06-17T13:14:33+08:00 ] 101.91.62.65 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701587346040&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0007s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701587346040' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2020-06-17T13:26:39+08:00 ] 61.151.178.168 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2020-06-17T17:13:51+08:00 ] 119.3.1.179 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701439355327&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0006s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701439355327' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2020-06-17T17:13:51+08:00 ] 119.3.1.179 /order/add.html?cszt=1&name=%E6%B1%AA&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E6%B1%AA&phone=15923701439355327&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0005s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701439355327' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2020-06-17T17:33:34+08:00 ] 119.3.1.179 /order/add.html?cszt=1&name=%E5%91%A8&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E5%91%A8&phone=15923701500634935&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0008s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701500634935' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2020-06-17T17:33:35+08:00 ] 119.3.1.179 /order/add.html?cszt=1&name=%E5%91%A8&zibei=&gender=1&b_input=0&birthday=2020&birthm=6&birthd=17&birthtime=1&birthmin=2&mobile=&xing=%E5%91%A8&phone=15923701500634935&ver=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0010s ]
+SQL: SELECT `order_no`,`price`,`oldprice` FROM `order` WHERE ( phone = '15923701500634935' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jd1 /www/wwwroot/ys.58yangs.com/asp.php 第 293 行.
+NOTIC: [8] Undefined index: jd2 /www/wwwroot/ys.58yangs.com/asp.php 第 294 行.
+NOTIC: [8] Undefined variable: truesubsecond /www/wwwroot/ys.58yangs.com/asp.php 第 350 行.
+NOTIC: [8] Undefined variable: taiyang /www/wwwroot/ys.58yangs.com/asp.php 第 375 行.
+NOTIC: [8] Use of undefined constant qyjs9 - assumed 'qyjs9' /www/wwwroot/ys.58yangs.com/asp.php 第 562 行.
+NOTIC: [2] str_repeat() expects exactly 2 parameters, 3 given /www/wwwroot/ys.58yangs.com/asp.php 第 586 行.
+NOTIC: [8] Undefined variable: ssmainw /www/wwwroot/ys.58yangs.com/asp.php 第 621 行.
+NOTIC: [8] Undefined variable: mainw /www/wwwroot/ys.58yangs.com/asp.php 第 673 行.
+NOTIC: [8] Use of undefined constant wnum5 - assumed 'wnum5' /www/wwwroot/ys.58yangs.com/asp.php 第 703 行.
+NOTIC: [8] Undefined variable: mainq /www/wwwroot/ys.58yangs.com/asp.php 第 704 行.
+NOTIC: [8] Undefined variable: ymainq /www/wwwroot/ys.58yangs.com/asp.php 第 760 行.
+NOTIC: [8] Undefined variable: ymainw /www/wwwroot/ys.58yangs.com/asp.php 第 781 行.
+NOTIC: [8] Undefined variable: zh /www/wwwroot/ys.58yangs.com/ys.php 第 9 行.
+NOTIC: [8] Use of undefined constant w5 - assumed 'w5' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w1 - assumed 'w1' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w4 - assumed 'w4' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w3 - assumed 'w3' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant w2 - assumed 'w2' /www/wwwroot/ys.58yangs.com/ys.php 第 12 行.
+NOTIC: [8] Use of undefined constant zh - assumed 'zh' /www/wwwroot/ys.58yangs.com/cy.php 第 215 行.
+NOTIC: [8] Undefined variable: ygod /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 135 行.
+NOTIC: [8] Undefined variable: szwc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: ctc /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: swcw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cdsr /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: scyw /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: cgsm /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: sedb /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+NOTIC: [8] Undefined variable: kg /www/wwwroot/ys.58yangs.com/Application/Home/Controller/OrderController.class.php 第 143 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2020-06-17T20:47:50+08:00 ] 36.99.136.139 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2020-06-17T20:47:50+08:00 ] 36.99.136.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2020-06-17T20:47:55+08:00 ] 36.99.136.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2020-06-17T20:48:31+08:00 ] 36.99.136.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2020-06-17T20:48:32+08:00 ] 36.99.136.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2020-06-17T20:54:21+08:00 ] 111.7.100.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2020-06-17T20:54:21+08:00 ] 111.7.100.27 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012895s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2020-06-17T21:41:21+08:00 ] 36.99.136.142 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2020-06-17T21:41:21+08:00 ] 36.99.136.139 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2020-06-17T21:41:26+08:00 ] 36.99.136.143 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2020-06-17T22:09:55+08:00 ] 36.99.136.142 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2020-06-17T22:09:55+08:00 ] 36.99.136.142 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014608s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+

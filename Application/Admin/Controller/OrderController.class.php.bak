@@ -1,0 +1,41 @@
+<?php
+namespace Admin\Controller;
+
+
+class OrderController extends WebController {
+
+    public function index(){
+        
+		$map['isdelete'] = array('eq', 0);	
+		$state = I('state', 0, 'intval');
+        switch($state){
+            case 1:
+                $map['state'] = array('eq', 0);  
+                break;
+            case 2:
+                $map['state'] = array('eq', 1);  
+                break;
+            default:
+                break;                            
+        }
+
+        if(isset($_GET['keyword'])){
+            $where['name']  = array('like', '%'.I('keyword', '', 'trim').'%');
+            $where['_logic'] = 'or';
+            $map['_complex'] = $where;
+        }
+
+        $list = $this->lists('order', $map, 'id desc', 0, '');
+
+        $this->assign('list', $list);
+
+        $this->meta_title = '订单管理';
+        $this->display();
+    }
+
+
+
+	
+
+	
+}
